@@ -1,0 +1,39 @@
+header{
+  height: 100px;
+  width: 100%;
+  background-color: yellow;
+}
+nav{
+  background-color: red;
+  height: 440px;
+  width: 25%;
+  float: left;
+}
+section{
+  background-color: #DCB762;
+  height: 440px;
+  width: 75%;
+  float: left;
+}
+article{
+  font-size: 20px;
+  background-color: black;
+  color: white;
+  height: 40px;
+  width: 100%;
+  margin-bottom: 25px;
+  float:left;
+}
+footer{
+  background-color: #13DBBA;
+  height: 100px;
+  width:100%;
+  float: left;
+}
+#contenedor{
+  font-size: 40px;
+  font-weight: bold;
+}
+.horizontal{
+  text-align: center;
+}
